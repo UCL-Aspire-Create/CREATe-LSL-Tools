@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Real Time LSL Marker", "Python Real Time LSL Marker\Python Real Time LSL Marker.pyproj", "{62C55E81-4B1C-4866-9580-2B290B33E5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C55E81-4B1C-4866-9580-2B290B33E5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C55E81-4B1C-4866-9580-2B290B33E5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10953C32-F3AC-4206-B8FD-D83919F88311}
+	EndGlobalSection
+EndGlobal
